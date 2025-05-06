@@ -1,0 +1,19 @@
+obj_set: ycb
+obj_name: 002_master_chef_can
+hand_name: allegro
+# Optional configuration values (all have sensible defaults in the script)
+# If you wish to override them, simply uncomment and set as desired.
+# batch_size: 4
+# num_dirs: 7
+# num_iters: 15001
+# dt: 0.01
+# mu_friction: 0.5
+# lr: 0.0002
+# num_batch_per_obj: 64
+# output_dir: grasp_outputs/
+# render_final_grasp: true
+# render_opt_traj: true
+# w_base_loss: 1e4
+# w_hand_obj_interp_loss: 1e1
+# w_l2_mid_loss: 1.0
+# w_limit_loss: 1e2

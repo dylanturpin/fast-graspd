@@ -1,0 +1,10 @@
+# ─ core libs ─────────────────────────────────────────────────────────
+warp-lang==1.7.1           # fast-graspd tested against 1.7.1 only
+numpy>=1.26
+scipy>=1.12
+omegaconf>=2.3
+hydra-core>=1.3
+matplotlib>=3.8            # if you use Qt/agg back-end, no extra deps
+trimesh>=4.3
+pyquaternion>=0.9
+usd-core>=25.5

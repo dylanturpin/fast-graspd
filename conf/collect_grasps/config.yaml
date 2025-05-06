@@ -1,0 +1,5 @@
+defaults:
+  - collector_config: barrett_ycb
+
+# You can override any of the keys from collector_config on the command line, e.g.:
+#   python scripts/collect_grasps_allegro.py collector_config.batch_size=8
