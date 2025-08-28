@@ -1,4 +1,5 @@
 # Fast-GraspD – Differentiable Grasp Optimisation
+[Project](https://dexgrasp.github.io/) | [Paper](https://ieeexplore.ieee.org/document/10160314)
 
 Fast-GraspD searches for stable grasps on a given object mesh using a
 fully-differentiable Warp simulation.  **Only the Allegro right hand is
